@@ -59,12 +59,12 @@ using FirstMVCApp.Models;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             BeginContext(0, 381, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3780c4b5e80d4b71ad718169311a64af", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4725e55d17954ace84c31fadc56aa390", async() => {
                 BeginContext(20, 36, true);
                 WriteLiteral("\n    <select name=\"color\" >\n        ");
                 EndContext();
                 BeginContext(56, 49, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6e96fc788c5e4f75bd4934cc807193cf", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e73be02e4a2a4ac0afddb7821dcb70af", async() => {
                     BeginContext(91, 5, true);
                     WriteLiteral("White");
                     EndContext();
@@ -87,7 +87,7 @@ using FirstMVCApp.Models;
                 WriteLiteral("\n        ");
                 EndContext();
                 BeginContext(114, 49, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cec16534a373491daffe23661af995f0", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "46e12c1984404ad5a73820d154f23ccc", async() => {
                     BeginContext(149, 5, true);
                     WriteLiteral("Black");
                     EndContext();
@@ -110,7 +110,7 @@ using FirstMVCApp.Models;
                 WriteLiteral("\n        ");
                 EndContext();
                 BeginContext(172, 45, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "959088f1a634435d8cba8601dea50f94", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8d6495f306c14a72b79ab82db8c0a474", async() => {
                     BeginContext(205, 3, true);
                     WriteLiteral("Red");
                     EndContext();
@@ -133,7 +133,7 @@ using FirstMVCApp.Models;
                 WriteLiteral("\n        ");
                 EndContext();
                 BeginContext(226, 47, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "379dd30741fc4c23a4a10e76c5abfc6a", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c05d50b00a4940728edf183b16b496d6", async() => {
                     BeginContext(260, 4, true);
                     WriteLiteral("Blue");
                     EndContext();
@@ -156,7 +156,7 @@ using FirstMVCApp.Models;
                 WriteLiteral("\n        ");
                 EndContext();
                 BeginContext(282, 49, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3fecab420fb54291b44d30a6de7b0027", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7b55c2e83bd04bb39c4b9b54c4c04f86", async() => {
                     BeginContext(317, 5, true);
                     WriteLiteral("Green");
                     EndContext();

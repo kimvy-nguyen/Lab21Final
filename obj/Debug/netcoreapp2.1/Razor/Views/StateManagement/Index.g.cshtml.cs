@@ -65,7 +65,7 @@ Write(ViewBag.error);
             WriteLiteral("</h2>\n");
             EndContext();
             BeginContext(25, 193, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "247999c83c8e4ae59c1ba31831411c9b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9fa8f4695b7441f798d67f2481029380", async() => {
                 BeginContext(45, 166, true);
                 WriteLiteral("\n\n    <h2>User Name: </h2>\n    <input type=\"text\" name=\"UserName\"/>\n\n    <h2>Password: </h2>\n    <input type=\"password\" name=\"Password\"/>\n\n    <input type=\"submit\"/>\n");
                 EndContext();

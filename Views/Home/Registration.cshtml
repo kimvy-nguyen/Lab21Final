@@ -8,13 +8,13 @@
     @*<input type="text" name="UserName" />*@
 
     <p>Email Address:</p>
-    <input type="email" name="Email Address" />
+    <input type="email" name="Email Address" required ="required"  />
 
-    <p>Phone Number:</p>
-    <input type="number" name="Phone Number"/>
+    <p>Phone Number (Format:123-456-7890):</p>
+    <input type="tel" name="Phone Number" required ="required" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" title="Please enter your phone number including your area code (US only)."/>
 
     <p>Password:</p>
-    <input type="password" name="Password" />
+    <input type="password" name="Password" required ="required" pattern="[a-zA-Z0-9]{6,20}" title="Your password must be between 6-20 characters."/>
 
 
     <input type="submit" />

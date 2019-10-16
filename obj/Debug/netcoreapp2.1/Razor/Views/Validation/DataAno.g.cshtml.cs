@@ -56,7 +56,7 @@ using FirstMVCApp.Models;
             WriteLiteral("<h1>Data Annotations Demo</h1>\n<p>Crap this form is broken and nothing is showing up on the results page? What do?</p>\n");
             EndContext();
             BeginContext(119, 261, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5938c2e02b3540988ca02513e8da18d8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "951acaec3cee46359c5b8b16c4328c65", async() => {
                 BeginContext(158, 215, true);
                 WriteLiteral("\n    <h2>UserName</h2>\n    <input name=\"UserName\" type=\"text\"/>\n\n    <h2>Password</h2>\n    <input name=\"Password\" type=\"password\"/>\n\n    <h2>Age</h2>\n    <input name=\"Age\" type=\"number\"/>\n    <input type=\"submit\"/>\n");
                 EndContext();
